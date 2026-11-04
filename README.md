@@ -1,10 +1,6 @@
 # 🍷 Classificando a Qualidade de Vinhos com Machine Learning
 **POS TECH — Data Analytics (DTAT) | Tech Challenge - Fase 2**
 
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-orange?logo=scikit-learn&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
-
 ---
 
 ## 📌 1. Contexto e Compreensão do Problema
