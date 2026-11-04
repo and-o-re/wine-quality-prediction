@@ -121,8 +121,6 @@ wine-quality-prediction/
 
 ## 📈 6. Principais Resultados e Insights
 
-> *(Preencha ou ajuste os números abaixo com as métricas finais obtidas no seu notebook)*
-
 ### Comparativo de Modelos
 | Modelo | Acurácia | Precision | Recall | F1-Score | ROC-AUC |
 | :--- | :---: | :---: | :---: | :---: | :---: |
@@ -135,16 +133,7 @@ wine-quality-prediction/
 * **Acidez Volátil (`volatile acidity`):** Forte correlação negativa; níveis elevados de ácido acético degradam o aroma e conferem gosto avinagrado, reduzindo drasticamente a chance de o vinho ser classificado como alta qualidade.
 * **Sulfatos (`sulphates`) e Ácido Cítrico (`citric acid`):** Contribuem positivamente para a conservação, frescor e estrutura sensorial do vinho.
 
----
-
-## 🎬 7. Entregáveis Executivos
-
-* 📄 **Apresentação Executiva (Storytelling da EDA e Resultados):** [Acesse aqui o arquivo PDF/PPT na pasta `results/`](./results/) *(atualizar com o nome exato do arquivo)*
-* 🎥 **Vídeo Executivo (Pitch de até 5 min):** [Assista à apresentação em vídeo aqui](#) *(inserir link do YouTube/Drive)*
-
----
-
-## 👥 8. Autores (Equipe)
+## 👥 7. Autores (Equipe)
 
 Projeto desenvolvido para a Fase 2 da Pós-Graduação em Data Analytics (**POS TECH - FIAP**):
 
